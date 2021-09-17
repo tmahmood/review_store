@@ -1,0 +1,6 @@
+configparser
+psycopg2-binary
+click
+python-dotenv
+nltk
+pycountry
